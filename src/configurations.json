@@ -1,0 +1,28 @@
+{
+  "backgroundType": "plain",
+  "plainBackgroundMode": "daylight",
+  "devIntro": "Hi, I'm Subair Temilayo",
+  "devDesc": "All - Star Dev | Bug Hunter | Mikaelson Tribid | Alpha of the  Developer pack. ",
+  "gradientColors": "#EE7752, #E73C7E, #23A6D5, #23D5AB",
+  "backgroundImageUrl": "http://hdwpro.com/wp-content/uploads/2017/03/Art-Background-Image.png",
+  "icons": [
+    {
+      "image": "fa-github",
+      "url": "https://github.com/fersubair40"
+    },
+    {
+      "image": "fa-twitter",
+      "url": "https://twitter.com/temilayooladim1"
+    },
+
+    {
+      "image": "fa-stack-overflow",
+      "url": "https://stackoverflow.com/users/11836291/temilayo-subair"
+    },
+    
+    {
+      "image": "fa-linkedin",
+      "url": "https://www.linkedin.com/in/temilayo-subair-3139bb155"
+    }
+  ]
+}
