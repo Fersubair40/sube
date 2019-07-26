@@ -187,6 +187,7 @@ class App extends Component {
                   target="_blank"
                   rel="noopener noreferrer"
                   href={ `${icon.url}` }
+                  key={icon.url}
                 >
                   <i className={ `fab ${icon.image}` }  />
                 </a>
